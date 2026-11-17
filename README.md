@@ -6,7 +6,7 @@ Expert automation skills for Claude Code, organized by department.
 
 ```bash
 # Add marketplace
-/plugin marketplace add naveedharri/benai-skills
+/plugin marketplace add BenAIOS/benai-skills
 
 # Install a department plugin
 /plugin install marketing@benai-skills
@@ -23,7 +23,7 @@ Some skills require API keys. Create a `.env` file in your project directory:
 
 ```bash
 # Quick setup
-curl -O https://raw.githubusercontent.com/naveedharri/benai-skills/main/.env.example
+curl -O https://raw.githubusercontent.com/BenAIOS/benai-skills/develop/.env.example
 mv .env.example .env
 # Edit .env and add your API keys
 ```

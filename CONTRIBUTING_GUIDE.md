@@ -11,7 +11,7 @@ Ensure you have both your fork (`origin`) and the main repository (`upstream`) c
 
 ```bash
 # Add upstream if you haven't already
-git remote add upstream https://github.com/naveedharri/benai-skills.git
+git remote add upstream https://github.com/BenAIOS/benai-skills.git
 
 # Verify remotes
 git remote -v
